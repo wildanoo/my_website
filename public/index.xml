@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Wildanoo Site</title>
+        <link>http://wildanoo.com/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 May 2023 21:27:08 &#43;0700</lastBuildDate>
+            <atom:link href="http://wildanoo.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>http://wildanoo.com/first_post/</link>
+    <pubDate>Sun, 21 May 2023 21:27:08 &#43;0700</pubDate>
+    <author>xxxx</author>
+    <guid>http://wildanoo.com/first_post/</guid>
+    <description><![CDATA[This is the new post in wildanoo site, to test the content post in hugo template.
+Markdown based content to styling it and customize the content easily]]></description>
+</item>
+</channel>
+</rss>
