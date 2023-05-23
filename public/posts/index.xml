@@ -3,14 +3,24 @@
         <title>All Posts - Wildanoo Site</title>
         <link>http://wildanoo.com/posts/</link>
         <description>All Posts | Wildanoo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 May 2023 21:27:08 &#43;0700</lastBuildDate><atom:link href="http://wildanoo.com/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
-    <link>http://wildanoo.com/first_post/</link>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 May 2023 15:53:18 &#43;0700</lastBuildDate><atom:link href="http://wildanoo.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Using Http In Git Like SSH Without Input User &amp; Pass All The Time</title>
+    <link>http://wildanoo.com/using-github-bitbucket/</link>
+    <pubDate>Tue, 23 May 2023 15:53:18 &#43;0700</pubDate>
+    <author>WildanAB</author>
+    <guid>http://wildanoo.com/using-github-bitbucket/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/featured/github-cover.png" referrerpolicy="no-referrer">
+            </div>Common practice in cloning and work around git is using SSH, but sometimes setup SSH is a daunting task and troublesome especially for beginner. There is another way to work around git without using SSH that is using HTTPS. If you&rsquo;re stuck when setup SSH by facing error that you can&rsquo;t solve, I encourage you to use HTTPS, it&rsquo;s not a shame to use HTTPS just take it easy. This approach feels more straight to the point to setup and run git.]]></description>
+</item>
+<item>
+    <title>Introduction</title>
+    <link>http://wildanoo.com/1_post/</link>
     <pubDate>Sun, 21 May 2023 21:27:08 &#43;0700</pubDate>
-    <author>xxxx</author>
-    <guid>http://wildanoo.com/first_post/</guid>
-    <description><![CDATA[This is the new post in wildanoo site, to test the content post in hugo template.
-Markdown based content to styling it and customize the content easily]]></description>
+    <author>WildanAB</author>
+    <guid>http://wildanoo.com/1_post/</guid>
+    <description><![CDATA[Hi and welcome.. This website supposed to be my main site for sharing information related to software development. More content are on the way and also you can check my social media which not that social and my portfolio here, later.
+Godspeed!]]></description>
 </item>
 </channel>
 </rss>
