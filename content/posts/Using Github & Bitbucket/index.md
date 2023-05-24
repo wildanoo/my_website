@@ -1,5 +1,5 @@
 ---
-title: "Using Http In Git Like SSH Without Input User & Pass All The Time"
+title: "Using Http In Git Just Like SSH"
 date: 2023-05-23T15:53:18+07:00
 draft: false
 featuredImage: '/images/featured/github-cover.png'
@@ -32,7 +32,9 @@ First we have to set our Personal Access Token in github.
 
 {{< figure src="images/step-10.jpg" title="Step 7" height="200px">}}
 
-8. The example below is for project that does not have git in it. First initialize git in the project folder and setup the remote origin, add your generated token in the https link place it before github.com and add `@` after your token. 
+And now the **final step** in our local repo. 
+
+The example below is for project that does not have git in it. First initialize git in the project folder and setup the remote origin, add your generated token in the https link place it before github.com and add `@` after your token. 
 
 For example if your https link is:
 `https://github.com/wildanoo/hugo_paper.git`
