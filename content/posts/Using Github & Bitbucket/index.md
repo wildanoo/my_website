@@ -6,10 +6,10 @@ featuredImage: '/images/featured/github-cover.png'
 featuredImagePreview: '/images/featured/github-cover.png'
 ---
 
-Common practice in cloning and work around git is using SSH, but sometimes setup SSH is a daunting task and troublesome especially for beginner.
-There is another way to work around git without using SSH that is using HTTPS. If you're stuck when setup SSH by facing error that you can't solve, I encourage you to use HTTPS, it's not a shame to use HTTPS just take it easy. This approach feels more straight to the point to setup and run git.
-
+Common practice in cloning and work around git is using SSH, but sometimes setup SSH is a daunting task and troublesome especially for beginner. There is another way to work around git without using SSH that is using HTTPS. If you're stuck when setup SSH by facing error that you can't solve, I encourage you to use HTTPS, it's not a shame to use HTTPS just take it easy. This approach feels more straight to the point to setup and run git.
+As I know this method can be done in github and bitbucket since I already try both of it. For this example I will guide you using our lovely friend, github. 
 First we have to set our Personal Access Token in github.
+
 1. Go to your github and go to settings.
 2. Select the developer settings
 3. Open personal access token -> select Tokens (classic) -> Generate new token (Classic)
