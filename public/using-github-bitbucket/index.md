@@ -1,10 +1,10 @@
-# Using Http In Git Like SSH Without Input User & Pass All The Time
+# Using Http In Git Just Like SSH
 
 
-Common practice in cloning and work around git is using SSH, but sometimes setup SSH is a daunting task and troublesome especially for beginner.
-There is another way to work around git without using SSH that is using HTTPS. If you're stuck when setup SSH by facing error that you can't solve, I encourage you to use HTTPS, it's not a shame to use HTTPS just take it easy. This approach feels more straight to the point to setup and run git.
-
+Common practice in cloning and work around git is using SSH, but sometimes setup SSH is a daunting task and troublesome especially for beginner. There is another way to work around git without using SSH that is using HTTPS. If you're stuck when setup SSH by facing error that you can't solve, I encourage you to use HTTPS, it's not a shame to use HTTPS just take it easy. This approach feels more straight to the point to setup and run git.
+As I know this method can be done in github and bitbucket since I already try both of it. For this example I will guide you using our lovely friend, github. 
 First we have to set our Personal Access Token in github.
+
 1. Go to your github and go to settings.
 2. Select the developer settings
 3. Open personal access token -> select Tokens (classic) -> Generate new token (Classic)
@@ -27,7 +27,9 @@ First we have to set our Personal Access Token in github.
 
 {{< figure src="images/step-10.jpg" title="Step 7" height="200px">}}
 
-8. The example below is for project that does not have git in it. First initialize git in the project folder and setup the remote origin, add your generated token in the https link place it before github.com and add `@` after your token. 
+And now the **final step** in our local repo. 
+
+The example below is for project that does not have git in it. First initialize git in the project folder and setup the remote origin, add your generated token in the https link place it before github.com and add `@` after your token. 
 
 For example if your https link is:
 `https://github.com/wildanoo/hugo_paper.git`
