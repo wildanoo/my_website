@@ -723,6 +723,6 @@ Add new project in vercel and import your github repo to vercel
 
 And the framework preset will automatically set to hugo, let all other things default.
 
-Add the environment variable `HUGO_VERSION` as key and `0.92.0` as value as it will failed to deploy it not set the version to 0.92.0.
+Add the environment variable `HUGO_VERSION` as key and `0.92.0` as value as it will failed to deploy if not set the version to 0.92.0.
 
-Congratulation, Now your website is up for free and can be accessed anytime, and it will auto deploy everytime you push an update to your github repository. There is a lot of room for improvement, you can explore more about hugo.
+Congratulation, now your website is up for free and can be accessed anytime, and it will auto deploy everytime you push an update to your github repository. There are still a lot of room for improvement, you can explore more about hugo.
